@@ -41,6 +41,7 @@ The dataset used for training and testing the models includes a variety of leaf 
    - Developing a user-friendly GUI for easy interaction
    - Allowing users to upload leaf images
    - Providing real-time disease prediction and recommendations
+<img width="792" alt="Screenshot 2024-12-21 at 10 58 33 AM" src="https://github.com/user-attachments/assets/c3dff260-7348-4851-a2fd-42e073f5da54" />
 
 **Results**
 
